@@ -9,7 +9,7 @@
 5. **Computer science**: GPU programming, optimization methods
                         
 - 💞️ I’m looking to collaborate on network theory and Python programming
-- 📫 How to reach me anthony.baptista@qmul.ac.uk or abaptista@turing.ac.uk
+- 📫 How to reach me abaptista@turing.ac.uk
 
 <!---
 anthbapt/anthbapt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
