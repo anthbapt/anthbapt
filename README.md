@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @anthbapt
 - 👀 I’m interested in: 
 
-1. **Network theory**: multilayer networks, higher-order networks, network embedding,
-                                               community detection, information theory
-2. **Topology/Differential geometry**: Manifold learning, Ricci flow, Topological Data Analysis
-3. **Statistical physics**: statistical physics of liquids, phase transition
-4. **Systems biology**: biological networks, genomic information, multi-omics data
-5. **Computer science**: GPU programming, optimization methods
+1. **Network theory**: Multilayer networks, Higher-order networks, Network embedding,
+                                               Community detection, nformation theory
+2. **Topology/Differential geometry**: Manifold learning, Ricci flow, Topological Data Analysis, Network geometry
+3. **AI**: Geometric Deep Learning, Explanable AI
+4. **Bioinformaticsy**: Biological networks, Spatial Transcriptomics, Epigenetic landscape, Cancer biology, Multi-omics data
                         
 - 💞️ I’m looking to collaborate on network theory and Python programming
 - 📫 How to reach me abaptista@turing.ac.uk
