@@ -8,7 +8,7 @@
 4. **Bioinformatics**: Biological networks, Spatial Transcriptomics, Epigenetic landscape, Cancer biology, Multi-omics data
                         
 - 💞️ I’m looking to collaborate on network theory and Python programming
-- 📫 How to reach me abaptista@turing.ac.uk
+- 📫 How to reach me abaptista@turing.ac.uk or anthony.baptista@kcl.ac.uk
 
 <!---
 anthbapt/anthbapt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
